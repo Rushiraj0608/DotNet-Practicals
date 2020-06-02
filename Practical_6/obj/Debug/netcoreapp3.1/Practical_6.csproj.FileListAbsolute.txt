@@ -1,0 +1,10 @@
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\bin\Debug\netcoreapp3.1\Practical_6.exe
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\bin\Debug\netcoreapp3.1\Practical_6.deps.json
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\bin\Debug\netcoreapp3.1\Practical_6.runtimeconfig.json
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\bin\Debug\netcoreapp3.1\Practical_6.runtimeconfig.dev.json
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\bin\Debug\netcoreapp3.1\Practical_6.dll
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\bin\Debug\netcoreapp3.1\Practical_6.pdb
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\obj\Debug\netcoreapp3.1\Practical_6.AssemblyInfoInputs.cache
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\obj\Debug\netcoreapp3.1\Practical_6.AssemblyInfo.cs
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\obj\Debug\netcoreapp3.1\Practical_6.dll
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_6\obj\Debug\netcoreapp3.1\Practical_6.pdb

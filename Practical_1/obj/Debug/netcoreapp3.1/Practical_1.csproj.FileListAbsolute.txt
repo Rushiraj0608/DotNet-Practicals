@@ -1,0 +1,11 @@
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\bin\Debug\netcoreapp3.1\Practical_1.exe
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\bin\Debug\netcoreapp3.1\Practical_1.deps.json
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\bin\Debug\netcoreapp3.1\Practical_1.runtimeconfig.json
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\bin\Debug\netcoreapp3.1\Practical_1.runtimeconfig.dev.json
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\bin\Debug\netcoreapp3.1\Practical_1.dll
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\bin\Debug\netcoreapp3.1\Practical_1.pdb
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\obj\Debug\netcoreapp3.1\Practical_1.csprojAssemblyReference.cache
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\obj\Debug\netcoreapp3.1\Practical_1.AssemblyInfoInputs.cache
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\obj\Debug\netcoreapp3.1\Practical_1.AssemblyInfo.cs
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\obj\Debug\netcoreapp3.1\Practical_1.dll
+C:\Users\Rushiraj\source\repos\DotNetPracticals\Practical_1\obj\Debug\netcoreapp3.1\Practical_1.pdb
